@@ -1,22 +1,37 @@
 URL: https://www.heartwoodschoolforesttherapy.com/
-# Forest Therapy Certification | Heartwood School of Forest Therapy
-- A forest therapy certification program rooted in mindfulness, somatics, and Earth's wisdom. Trauma-informed training led by experienced guides.
-
-URL: https://www.heartwoodschoolforesttherapy.com/about
-## About
-- Introduction to Heartwood School of Forest Therapy, including mission and guiding principles for the certification program.
+# Heartwood School of Forest Therapy
+> A U.S.-based training school that certifies forest therapy guides in trauma-informed, nature-based mindfulness and somatic practices that help people return to well-being through guided forest immersion experiences.
+> This file lists LLM-ready summaries of our pages, including short Q&A for context.
 
 URL: https://www.heartwoodschoolforesttherapy.com/certification-pathways
-## Certification Pathways
-- Overview of available certification pathways and options for prospective students.
+## Forest Therapy Certification Pathways
+- Forest Therapy Certification Pathways. Offering certification training programs to become a forest therapy guide, teaching mindfulness-based, nature-connection facilitation skills through online study and immersive retreats.
+- **Q:** What certification pathways are available?
+- **A:** Heartwood School of Forest Therapy offers an online training program and an in-person retreat pathway, both leading to guide certification.
+- **Q:** What does the forest therapy certification training include?
+- **A:** Heartwood School of Forest Therapy includes guided practice, live instruction, mentorship, and experiential learning in nature.
+- **Q:** Who is the forest therapy certification program designed for?
+- **A:** Heartwood School of Forest Therapy is designed for mental health providers, wellness professionals, educators, and any individuals interested in leading healing nature experiences for overall well-being.
 
 URL: https://www.heartwoodschoolforesttherapy.com/online
-## Online Pathway
-- Details on the online certification pathway, course structure, duration, and learning outcomes.
+## Forest Therapy Certification Online
+- Forest Therapy Certification Online. Providing an online forest therapy guide certification program that teaches mindfulness, somatic awareness, trauma-informed facilitation, and nature-connection practices through live virtual training and guided experiential learning.
+- **Q:** How does the online certification program work?
+- **A:** Heartwood School of Forest Therapy delivers the online certification through live Zoom classes, self-paced coursework, and guided nature-based practice from the student’s local environment.
+- **Q:** How long is the online forest therapy certification program?
+- **A:** Heartwood School of Forest Therapy’s online pathway is a 12-week program combining weekly live sessions, study materials, and practical fieldwork.
+- **Q:** What will participants learn in the online forest therapy training?
+- **A:** Heartwood School of Forest Therapy teaches skills like guiding mindful nature-connection practices, trauma-informed facilitation, somatic awareness, and creating restorative nature experiences.
 
 URL: https://www.heartwoodschoolforesttherapy.com/retreat
-## Retreat Pathway
-- Information on the retreat-based certification pathway, focusing on immersive, hands-on learning in nature.
+## Forest Therapy Guide Training Retreat
+- Forest Therapy Guide Training Retreat. Offering a forest therapy guide certification retreat that combines immersive outdoor training, mindfulness practice, and guided fieldwork with a follow-up practicum to certify participants as forest therapy guides.
+- **Q:** What does the forest therapy guide training retreat include?
+- **A:** Heartwood School of Forest Therapy includes four days of experiential forest immersion, guided walks, somatic and mindfulness practices, and foundational training in trauma-informed facilitation.
+- **Q:** What skills are taught during the forest therapy guide training retreat?
+- **A:** Heartwood School of Forest Therapy teaches guided meditation, sensory awareness, group facilitation, trauma-informed practice, and nature-based connection techniques.
+- **Q:** Who is the forest therapy guide training retreat designed for?
+- **A:** Heartwood School of Forest Therapy’s retreat is designed for people who prefer hands-on learning and want an immersive, community-based path to certification.
 
 URL: https://www.heartwoodschoolforesttherapy.com/heartwood-collective
 ## Heartwood Collective
@@ -29,4 +44,3 @@ URL: https://www.heartwoodschoolforesttherapy.com/blog
 URL: https://www.heartwoodschoolforesttherapy.com/faq
 ## FAQ
 - Frequently asked questions covering prerequisites, costs, and training details of the certification program.
-
